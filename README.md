@@ -1,2 +1,2 @@
 # AirBnB_clone_v4
-An online marketplace for short- and long-term homestays and experiences. 
+An online marketplace for short- and long-term homestays and experiences..
